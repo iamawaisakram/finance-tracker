@@ -1,7 +1,11 @@
 
 This is Rails app for finance(stock) tracking.
 
+- Build form
 
+- Route -> search_stocks
+
+- Controller -> action - stocks_controller.rb search_stocks
 
 
 
