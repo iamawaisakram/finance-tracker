@@ -4,7 +4,7 @@
 			<th>Name</th>
 			<th>Symbol</th>
 			<th>Current Price</th>
-			<% if current_user.id == 1 %>
+			<% if current_user.present? %>
 				<th>Actions</th>
 			<% end %>
 		</tr>
