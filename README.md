@@ -1,7 +1,7 @@
 
 This is Rails app for finance(stock) tracking.
 
-- Authenticate System, users can sign up, edit their profile, log in/out
+- Authenticate System, users can sign up, edit their profile, log in/out (used Devise)
 
 - Users can track stocks, upto 10 per user, this profile page will display all the current stock prices
 
@@ -13,7 +13,7 @@ This is Rails app for finance(stock) tracking.
 
 - Users can view the portfolio of stocks their friends are tracking for investing ideas
 
-- Must be mobile friendly, so the styling has to be responsive
+- Must be mobile friendly, so the styling has to be responsive that's why I used Bootstrap twitter theme. 
 
 
 
