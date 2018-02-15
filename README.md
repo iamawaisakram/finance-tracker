@@ -1,11 +1,19 @@
 
 This is Rails app for finance(stock) tracking.
 
-- Build form
+- Authenticate System, users can sign up, edit their profile, log in/out
 
-- Route -> search_stocks
+- Users can track stocks, upto 10 per user, this profile page will display all the current stock prices
 
-- Controller -> action - stocks_controller.rb search_stocks
+- Users can search for stock symbols using search bar
+
+- Users can choose to add a stock from results of search to their portfolio
+
+- Users can look for friends, or other users of the app, by name or email(first, last, email)
+
+- Users can view the portfolio of stocks their friends are tracking for investing ideas
+
+- Must be mobile friendly, so the styling has to be responsive
 
 
 
